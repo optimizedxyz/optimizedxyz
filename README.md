@@ -1,5 +1,4 @@
 <h1 align="center">Hi There! 👋, I'm Opt1mized</h1>
-<h3 align="center">I am a Fullstack Developer, Ui/Ux Designer and a student.</h3>
 
 
 <h3 align="left">Tech-Stack:</h3>
